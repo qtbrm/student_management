@@ -1,1 +1,4 @@
-# student_management
+# student_management简易版学生管理系统
+页面
+数据结构--使用链表实现学生信息查找、删除、插入、修改操作
+交换
